@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:1.7.1-cuda11.0-cudnn8-devel AS base
+FROM jupyter/datascience-notebook:python-3.7.6 AS base

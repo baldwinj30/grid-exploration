@@ -1,0 +1,10 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [8888],
+    "extensions": [
+        "ms-python.python",
+        "davidanson.vscode-markdownlint"
+    ]
+}
